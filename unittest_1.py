@@ -1,6 +1,6 @@
 import unittest
-from module1 import Account, AccountControl  # Assuming these are in module1
-from pack2module1 import Authorize  # Replace with the actual module name
+from module1 import Account, AccountControl  
+from pack2module1 import Authorize 
 
 class MockAccountControl:
     def __init__(self):

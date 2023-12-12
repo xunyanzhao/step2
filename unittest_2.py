@@ -1,7 +1,6 @@
 import unittest
 from unittest.mock import patch
-from pack2module2 import CustomerService  # Replace with the actual module name
-
+from pack2module2 import CustomerService 
 class TestCustomerService(unittest.TestCase):
 
     def setUp(self):
