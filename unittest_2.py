@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from your_module import CustomerService  # Replace with the actual module name
+from pack2module2 import CustomerService  # Replace with the actual module name
 
 class TestCustomerService(unittest.TestCase):
 
